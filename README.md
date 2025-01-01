@@ -3,4 +3,6 @@ a test repo
 
 #initialize the repo
 
-```git init```
+```bash
+git init
+```
